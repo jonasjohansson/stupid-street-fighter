@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "clmtrackr": "^1.1.2",
+    "express": "^4.16.2",
+    "node-cmd": "^3.0.0",
+    "node-osascript": "^2.0.0",
+    "robotjs": "^0.4.7",
+    "socket.io": "^2.0.4",
+    "speech-to-text": "^0.7.4",
+    "xo": "^0.18.2"
+  }
+}
