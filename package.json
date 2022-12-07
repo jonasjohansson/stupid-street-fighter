@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "clmtrackr": "^1.1.2",
-    "express": "^4.16.2",
+    "express": "^4.17.3",
     "node-cmd": "^3.0.0",
     "node-osascript": "^2.0.0",
     "robotjs": "^0.4.7",
